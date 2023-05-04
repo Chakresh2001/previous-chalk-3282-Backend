@@ -1,0 +1,311 @@
+{
+    "coffee": [
+        {
+            "name": "Alpina",
+            "category": "Coffee Maker",
+            "price": 33.9,
+            "description": "Alpina is the Bialetti coffee maker dedicated to the glorious Alpine Corps. The Moka Alpina is an original coffee maker which is a faithful recreation of the Moka Express with its octagonal aluminium boiler, its exclusive inspectable and easy-to-clean valve and its filter, but which celebrates the Alpine Corps with a collector that aims to be a tribute to their famous feathered hat. Alpina comes in just one size and is suitable for gas, electric and induction hobs with the Bialetti adapter plate for induction hobs.",
+            "color": "SKU 0002762/NP",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/b/0/b008fof86e_pt01.jpg",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/a/l/alpina.png",
+            "id": 1
+        },
+        {
+            "name": "Brikka",
+            "category": "Coffee Maker",
+            "price": 42.9,
+            "description": "Brikka is a unique coffee maker that offers the experience of a real Italian espresso just like at the bar. The new technology with silicone membrane, combined with the characteristics of the moka, ensures results similar to the espresso coffee at the bar: full-bodied, intense and with lasting creaminess. Brikka also has the exclusive patented Bialetti safety valve, which can be easily inspected and is easy to clean. The ergonomic handle makes it easy to grip the product.",
+            "color": "SKU LINEA-BRIKKA",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/b/r/brikka.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/a/_ambientata_new_brikka.jpg",
+            "id": 2
+        },
+        {
+            "name": "Mini Express Induction",
+            "category": "Coffee Maker",
+            "price": 44.9,
+            "description": "Mini Express Induction is the combination of creativity and innovation. It offers a perfect Italian espresso, served directly into cups. Bialetti Mini Express is designed for a very special moment when you can enjoy the pleasure of a delicious coffee.",
+            "color": "SKU 0007310",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/i/mini_ind_tazze.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt02_1.jpg",
+            "id": 3
+        },
+        {
+            "name": "Venus Blue",
+            "category": "Coffee Maker",
+            "price": 39.9,
+            "description": "Bialetti Venus coffee maker has an unmistakable and elegant design. The upper chamber is even more exclusive, thanks to its distinctive blue color. In addition, it guarantees high quality thanks to the patented safety valve that makes it easy to clean. Bialetti Venus offers maximun strenght and is made to last: it has a boiler wall thickness increased by 20%, which confers high performance and robustness to guarantee the highest quality. Built in 18/10 stainless steel to work also on induction hobs*, it maintains its brightness and original characteristics even after prolonged use over time.",
+            "color": "SKU NEW VENUS BLUE",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/v/e/venus_blu.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/v/e/venus_blu_versata.jpg",
+            "id": 4
+        },
+        {
+            "name": "Magenta Rainbow",
+            "category": "Coffee Maker",
+            "price": 19.9,
+            "description": "New Sunset Infinity collection: a wave of style with which to savour the taste of ‘la dolce vita’ one coffee at a time. The Rainbow coffee maker, in this new limited edition, comes in the warm shades of the sunset to help you wake up in a good mood.",
+            "color": "RAINBOW-MAGENTA-SUNSET",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/0/0007352_0007355_2.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/a/7/a7r01374.jpg",
+            "id": 5
+        },
+        {
+            "name": "Moka Express Rossa",
+            "category": "Coffee Maker",
+            "price": 32.9,
+            "description": "Bialetti Moka Express: this is the original coffee maker, a symbol of Made in Italy quality, which offers the experience of the true Italian ritual of preparing a delicious cup of coffee. Also available in two different colors: red or black. Its unique shape dates back to 1933, when it was invented by Alfonso Bialetti. What makes it even more unique is the iconic Man with the moustache. Bialetti quality: Made in Italy high-quality product. Unique patented safety valve which is easy to inspect and to clean. It also offers an ergonomic handle to facilitate grip of the product. Available in many sizes, this product is suitable for use on gas, electric and induction hobs (exclusively with the Bialetti induction plate adapter).",
+            "color": "SKU MOKA-EXPRESS-RED",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/o/moka_rossa_3tz.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/b/0/b071d9w2lf.pt02.jpg",
+            "id": 6
+        },
+        {
+            "name": "Papua Nuova Guinea",
+            "category": "Bialetti system capsules ",
+            "price": 6.99,
+            "description": "Bialetti Papua New Guinea capsules contain a 100% Arabica single origin, highly prized and carefully selected, with a strong body and an exotic character. A coffee with a strong, full flavor, which grows in the Wahgi Valley: a natural paradise populated by parrots and hummingbirds that feed on the flowers of the trees that protect and shade the coffee plants. Papua New Guinea is a perfect blend for those who love intense flavors with fruity and floral aromas. The box contains 16 Bialetti capsules in 100% recyclable aluminum, designed to best preserve the aroma of the coffee by protecting it from the effects of oxygen, light and humidity to guarantee coffee that is always fresh, as if it had just been ground. Each capsule contains 7 grams of coffee, for an espresso worthy of a coffee shop!",
+            "color": "SKU 096080366/M",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080366_m_01_1.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080366_m_01_2.png",
+            "id": 7
+        },
+        {
+            "name": "Venezia",
+            "category": "Bialetti system capsules ",
+            "price": 6.99,
+            "description": "Bialetti Venezia capsules contain a sophisticated blend with an enveloping body. A unique coffee with spicy and vanilla hints, just like the ancient coffee imported to Venice from the East on wooden sailing ships. During the long journey, the tropical ocean winds covered the beans with a yellowish coating, creating an inimitable, fragrant and full-bodied coffee. The box contains 16 Bialetti capsules in 100% recyclable aluminum, designed to best preserve the aroma of the coffee by protecting it from the effects of oxygen, light and humidity to guarantee coffee that is always fresh, as if it had just been ground. Each capsule contains 7 grams of coffee, for an espresso worthy of a coffee shop!",
+            "color": "SKU 096080071/M",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080071_m_01_1.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080071_m_02.png",
+            "id": 8
+        },
+        {
+            "name": "Torino",
+            "category": "Bialetti system capsules",
+            "price": 6.99,
+            "description": "Bialetti Torino capsules contain an intense espresso, balanced by the delicate aroma of chocolate. A tribute to a city that boasts a noble chocolate tradition: all the typical aromas and scents of cocoa come together in this blend with a unique taste and velvety body. The box contains 16 Bialetti capsules in 100% recyclable aluminum, designed to best preserve the aroma of the coffee by protecting it from the effects of oxygen, light and humidity to guarantee coffee that is always fresh, as if it had just been ground. Each capsule contains 7 grams of coffee, for an espresso worthy of a coffee shop!",
+            "color": "SKU 096080069/M",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080069_m_01_1_2.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080069_m_02_1_1_.png",
+            "id": 9
+        },
+        {
+            "name": "Napoli",
+            "category": "Bialetti system capsules",
+            "price": 6.99,
+            "description": "Bialetti Napoli capsules contain an intense, enveloping blend with a dark roast and a deep body. A tribute to Naples and its coffee: a real daily ritual rich in caffeine, with an intense, full-bodied flavor, with toasted notes and light hints of cocoa. The box contains 16 Bialetti capsules in 100% recyclable aluminum, designed to best preserve the aroma of the coffee by protecting it from the effects of oxygen, light and humidity to guarantee coffee that is always fresh, as if it had just been ground. Each capsule contains 7 grams of coffee, for an espresso worthy of a coffee shop!",
+            "color": "SKU 096080073/M",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080073_m_01_1_1.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/9/096080073xxxm_02.png",
+            "id": 10
+        },
+        {
+            "name": "Skip to the beginning of the images gallery Ground coffee - Perfetto Moka Intenso",
+            "category": "Ground",
+            "price": 4.49,
+            "description": "Perfetto Moka Intenso ground coffee is the perfect coffee for your Moka pot. A Robusta India selection that gives depth and body to the blend, while the dark roast enhances the hints of toasted bread and cocoa. Bialetti has perfected its ground coffee, achieving the perfect combination of roasting, grinding and taste. Perfetto Moka Intenso pairs a long, controlled roasting period, which helps bring out the entire aromatic spectrum of this intense coffee, with grinding specially designed to guarantee a stronger, more intense and concentrated result. Thanks to the choice of the best raw ingredients, perfect blending and careful roasting, Bialetti ground coffee guarantees a perfect combination of flavors and aromas to be enjoyed with a Moka pot.",
+            "color": "SKU 096080354",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_1.png",
+            "image2": "",
+            "id": 11
+        },
+        {
+            "name": "Ground coffee - Perfetto Moka Irresistibile",
+            "category": "Ground",
+            "price": 15,
+            "description": "Perfetto Moka Irresistibile coffee is the result of the encounter between the skilful art of Bialetti’s master coffee roasters and the creative flair of Dolce&Gabbana.  The fine quality blend of 80% Arabica and 20% Robusta makes Perfetto Moka Irresistibile a coffee with a rounded, delicate taste, in which the broad bouquet of floral and fruity notes mingles with the mouth-watering ones of hazelnut and cocoa, in a sophisticated fusion of flavours typical of Italian tradition.  Housed in an exclusive tin, embellished by Dolce&Gabbana’s creativity inspired by the motifs of the Sicilian Cart, Perfetto Moka Irresistibile is a coffee that wins over the eye as well as the palate.",
+            "color": "SKU 096080404",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-visione-frontale-2.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+            "id": 12
+        },
+        {
+            "name": "Skip to the beginning of the images gallery Ground coffee - Perfetto Moka Decaffeinato",
+            "category": "Ground",
+            "price": 4.49,
+            "description": "Perfetto Moka Decaffeinato ground coffee is the perfect decaffeinated coffee for your Moka pot. Enveloping and mellow in structure, with an unmistakable flavor and aroma, it is dedicated to all coffee lovers who need to limit their caffeine consumption. Bialetti has perfected its ground coffee, achieving the perfect combination of roasting, grinding and taste. Perfetto Moka Decaffeinato pairs a medium roast, which gives this coffee sophisticated aromatic notes of cereals and toasted bread, with a process specially designed to eliminate caffeine without changing the unmistakable taste and flavor of the best Bialetti coffee. Thanks to the choice of the best raw ingredients, perfect blending and careful roasting, Bialetti ground coffee guarantees a perfect combination of flavors and aromas to be enjoyed with a Moka pot.",
+            "color": "SKU 096080357",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/e/deka_1.png",
+            "image2": "",
+            "id": 13
+        },
+        {
+            "name": "Ground coffee - Perfetto Moka Nocciola",
+            "category": "Ground",
+            "price": 4.49,
+            "description": "Perfetto Moka Nocciola ground coffee is the perfect coffee for your Moka pot. It is a gourmet coffee with a roasted hazelnut aroma and a rounded, delicate flavor. Bialetti has perfected its ground coffee, achieving the perfect combination of roasting, grinding and taste. Perfetto Moka Nocciola pairs medium roasting, which helps bring out the entire aromatic characteristics of this intense coffee, with grinding specially designed to savor its unmistakable aromas. Thanks to the choice of the best raw ingredients, perfect blending and careful roasting, Bialetti ground coffee guarantees a perfect combination of flavors and aromas to be enjoyed with a Moka pot.",
+            "color": "SKU 096080358",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/n/o/nocciola_1.png",
+            "image2": "",
+            "id": 14
+        },
+        {
+            "name": "Ground coffee - Perfetto Moka Delicato",
+            "category": "Ground",
+            "price": 4.49,
+            "description": "Perfetto Moka Delicato ground coffee is the perfect coffee for your Moka pot. A selection of fine 100% Arabica in which the intense notes of the Natural Brazil origin ensure a full, but more delicate, flavor. Bialetti has perfected its ground coffee, achieving the perfect combination of roasting, grinding and taste. Perfetto Moka Delicato enhances the harmonious nuances of hazelnut and dried fruit with a light roast for lovers of a mellow, delicate coffee. Thanks to the choice of the best raw ingredients, perfect blending and careful roasting, Bialetti ground coffee guarantees a perfect combination of flavors and aromas to be enjoyed with a Moka Express pot.",
+            "color": "SKU 096080356",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/e/delicato_1.png",
+            "image2": "",
+            "id": 15
+        },
+        {
+            "name": "Ground coffee - Perfetto Moka Vaniglia",
+            "category": "Ground",
+            "price": 4.49,
+            "description": "Perfetto Moka Vaniglia ground coffee is the perfect coffee for your Moka pot. Its delicate structure is enhanced by a vanilla-flavored, sweet, delicate taste. Bialetti has perfected its ground coffee, achieving the perfect combination of roasting, grinding and taste. Perfetto Moka Vaniglia adds the best vanilla beans to a long, structured roast for a fragrant coffee, just slightly different to your usual... Thanks to the choice of the best raw ingredients, perfect blending and careful roasting, Bialetti ground coffee guarantees a perfect combination of flavors and aromas to be enjoyed with a Moka pot.",
+            "color": "SKU 096080360",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/v/a/vaniglia_1.png",
+            "image2": "",
+            "id": 16
+        },
+        {
+            "name": "Gioia Responsible",
+            "category": "Espresso Machines ",
+            "price": 79.9,
+            "description": "Gioia Responsible is a coffee machine designed to produce an excellent espresso while also being good for the planet. Made with 50% recycled PCR plastic, Gioia Responsible allows you to enjoy the best Bialetti coffee in the comfort of your home while respecting the environment. Automatic, compact, and elegant, Gioia works only with aluminum capsules and with the exclusive natural wood Bialetti capsule opener included in the package, you can separate the aluminum from the coffee for correct disposal of the capsule in the recycling bin. In addition, the product packaging and all information materials contained within are made entirely of recycled and FSC certified paper and cardboard.",
+            "color": "SKU 012900140/NP",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/g/i/gioia-responsible-lato.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/g/i/gioia-responsible-fronte.png",
+            "id": 17
+        },
+        {
+            "name": "Break Bialetti - Capsule Coffee Machine",
+            "category": " Espresso Machines",
+            "price": 79.9,
+            "description": "The Break capsule coffee machine is Bialetti’s compact model, with a modern design featuring chrome finishes and sleek lines. It allows you to enjoy the best Bialetti espresso and is designed to save space: with a depth of only 30 cm it adapts to any shelf in your kitchen. Paying attention to space-saving in your home with a special focus on the environment: the Break coffee machine only works with aluminum capsules and switches off automatically after 9 minutes and 30 seconds. Your Break capsule coffee machine, offers you the best coffee ever - with every brew - also thanks to the Caffè d’Italia Bialetti capsules, available in a wide range of blends with unmistakable aromas and flavors The exclusive Bialetti capsule opener in natural wood allows you to separate the aluminum from the coffee for correct recycling.",
+            "color": "SKU 01267S080/SC",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012670080_01_1.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012670080_02_1.png",
+            "id": 18
+        },
+        {
+            "name": "Break Bialetti - Capsule Coffee Machine",
+            "category": " Espresso Machines ",
+            "price": 79.9,
+            "description": "The Break capsule coffee machine is Bialetti’s compact model, with a modern design featuring chrome finishes and sleek lines. It allows you to enjoy the best Bialetti espresso and is designed to save space: with a depth of only 30 cm it adapts to any shelf in your kitchen. Paying attention to space-saving in your home with a special focus on the environment: the Break coffee machine only works with aluminum capsules and switches off automatically after 9 minutes and 30 seconds. Your Break capsule coffee machine, offers you the best coffee ever - with every brew - also thanks to the Caffè d’Italia Bialetti capsules, available in a wide range of blends with unmistakable aromas and flavors The exclusive Bialetti capsule opener in natural wood allows you to separate the aluminum from the coffee for correct recycling.",
+            "color": "SKU 01267S010/SC",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/01267S010_01.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/01267S010_01.png",
+            "id": 19
+        },
+        {
+            "name": "Bialetti Gioia Capsule Machine",
+            "category": " Espresso Machines ",
+            "price": 79.9,
+            "description": "The Gioia capsule coffee machine allows you to enjoy the best Bialetti espresso in the comfort of your home. Automatic, compact and elegant, thanks to the double button, you can choose between espresso and long coffee. It works with aluminum capsules only and is designed to save space, adapting to any kitchen and area. Your Gioia capsule coffee machine prepares the perfect espresso thanks to Bialetti Caffè d’Italia capsules, available in a wide range of blends with unmistakable aromas and flavors. The exclusive Bialetti capsule opener in natural wood allows you to separate the aluminum from the coffee for correct recycling.",
+            "color": "SKU 012900110/NP",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012900110_sc_01_1_1.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/g/i/gioia-ottanio.jpg",
+            "id": 21
+        },
+        {
+            "name": "Bialetti Gioia - Capsule Coffee Machine",
+            "category": " Espresso Machines",
+            "price": 89.9,
+            "description": "The Gioia capsule coffee machine allows you to enjoy the best Bialetti espresso in the comfort of your home. Automatic, compact and elegant, thanks to the double button, you can choose between espresso and long coffee. It works with aluminum capsules only and is designed to save space, adapting to any kitchen and area. Your Gioia capsule coffee machine prepares the perfect espresso thanks to Bialetti Caffè d’Italia capsules, available in a wide range of blends with unmistakable aromas and flavors. The exclusive Bialetti capsule opener in natural wood allows you to separate the aluminum from the coffee for correct recycling.",
+            "color": "SKU 012900100/SC",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012900100_sc_01_1.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/g/i/gioia_rose_gold.jpg",
+            "id": 22
+        },
+        {
+            "name": "Mokona",
+            "category": "Espresso Machines ",
+            "price": 149.9,
+            "description": "The iconic Moka pot has grown up and is now three times as good: The Bialetti Mokona is the espresso coffee machine that looks like the iconic coffee maker, allowing you to choose from 3 preparation methods. Thanks to its triple system, in fact, the Bialetti Mokona allows you to use the best selections of ground coffee, available in a wide range of blends with unmistakable aromas and flavors, ESE paper pods and exclusive recyclable aluminum capsules. Mokona has a steam wand to froth the milk and prepare a thick, creamy cappuccino like one from a coffee shop.",
+            "color": "SKU 012400096/NP",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012400090_01.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012400090_05.png",
+            "id": 23
+        },
+        {
+            "name": "Mokona",
+            "category": "Espresso Machines ",
+            "price": 149.9,
+            "description": "The iconic Moka pot has grown up and is now three times as good: The Bialetti Mokona is the espresso coffee machine that looks like the iconic coffee maker, allowing you to choose from 3 preparation methods. Thanks to its triple system, in fact, the Bialetti Mokona allows you to use the best selections of ground coffee, available in a wide range of blends with unmistakable aromas and flavors, ESE paper pods and exclusive recyclable aluminum capsules. Mokona has a steam wand to froth the milk and prepare a thick, creamy cappuccino like one from a coffee shop.",
+            "color": "SKU 012400098/NP",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012400095_01.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012400095_03.png",
+            "id": 24
+        },
+        {
+            "name": "Mokona",
+            "category": "Espresso Machines",
+            "price": 149.9,
+            "description": "The iconic Moka pot has grown up and is now three times as good: The Bialetti Mokona is the espresso coffee machine that looks like the iconic coffee maker, allowing you to choose from 3 preparation methods. Thanks to its triple system, in fact, the Bialetti Mokona allows you to use the best selections of ground coffee, available in a wide range of blends with unmistakable aromas and flavors, ESE paper pods and exclusive recyclable aluminum capsules. Mokona has a steam wand to froth the milk and prepare a thick, creamy cappuccino like one from a coffee shop.",
+            "color": "SKU 012400097/SC",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012400094_01.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/1/012400094_05.png",
+            "id": 25
+        },
+        {
+            "name": "Grey Vacuum Flask with Cup/Lid",
+            "category": "Coffee accessories",
+            "price": 19.9,
+            "description": "The Bialetti vacuum flask is the ideal way to enjoy your coffee or favourite drink wherever you like! Thanks to its double wall and the quality of the materials used, your drinks will stay hot for 12 hours or cold for 24 hours. The handy lid also doubles as a cup that is perfect for enjoying your drinks and features a handy silicone knob so you don’t burn your fingers.",
+            "color": "SKU DCXIN00006/2",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/c/dcxin00006_01_3.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/_/p/_pt01_10.jpg",
+            "id": 26
+        },
+        {
+            "name": "Baby blue 500 ml insulated bottle",
+            "category": "Coffee accessories",
+            "price": 14.9,
+            "description": "New Sunset Infinity collection: a wave of style with which to savour the taste of ‘la dolce vita’ one coffee at a time. The Bialetti insulated bottle, in this new limited edition, is embellished with textures inspired by traditional majolica and the bright colours of the Mediterranean coastline. The ideal solution for enjoying your favourite coffee, always hot, whenever and wherever you want, without sacrificing a touch of personality and originality. Perfect to take to the office during the week or keep in your backpack, at weekends by the sea or in the mountains.",
+            "color": "SKU SS2023014",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/s/s/ss2023014.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/a/7/a7r01191.jpg",
+            "id": 27
+        },
+        {
+            "name": "Set of 6 orange stackable coffee cups",
+            "category": "Coffee accessories ",
+            "price": 22.9,
+            "description": "New Sunset Infinity collection: a wave of style with which to savour the taste of ‘la dolce vita’ one coffee at a time. The set of 6 cups is embellished with textures inspired by traditional majolica and the bright colours of the Mediterranean coastline. A hint of colour, elegance and originality to offer a special coffee to your guests. The set of 6 cups is designed to be convenient to store, as they can be stacked on top of each other, thus saving space in your cupboard.",
+            "color": "SKU SS2023002",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/s/s/ss2023002.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/a/7/a7r01763.jpg",
+            "id": 28
+        },
+        {
+            "name": "Skip to the beginning of the images gallery Set of 4 coffee spoons",
+            "category": "Coffee accessories",
+            "price": 9.9,
+            "description": "New Sunset Infinity collection: a wave of style with which to savour the taste of ‘la dolce vita’ one coffee at a time. The set of 4 coffee spoons comes in the colours of the sea and the sunset and are perfect for bringing an elegant, lively touch to your table.",
+            "color": "SKU SS2023011",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/s/s/ss2023011.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/a/7/a7r00796_1.jpg",
+            "id": 29
+        },
+        {
+            "name": "Set of 2 rectangular placemats",
+            "category": "Coffee accessories",
+            "price": 9.9,
+            "description": "New Sunset Infinity collection: a wave of style with which to savour the taste of ‘la dolce vita’ one coffee at a time. The set of 2 placemats, in this new limited edition, is embellished with textures inspired by traditional majolica and the bright colours of the Mediterranean coastline. A hint of elegance and originality to bring colour to your table.",
+            "color": "SKU SS2023017",
+            "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/s/s/ss2023017.png",
+            "image2": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/a/7/a7r01711.jpg",
+            "id": 30
+        }
+    ],
+    "admin" :[
+        {
+            "email" : "Chakresh@admin.com",
+            "password" : "123456",
+            "name" : "Chakresh Jha"
+        },
+        {
+            "email" : "masaiSchool@admin.com",
+            "password" : "123456",
+            "name" : "Masai School"
+        }
+    ],
+    "users": [],
+    "fake1":[],
+    "fake2":[],
+    "fake3":[],
+    "fake4":[]
+}
